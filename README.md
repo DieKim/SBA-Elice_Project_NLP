@@ -18,6 +18,6 @@
 
 ### 💡 Reference
 * Data: https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp
-* Baseline: https://elice.io/ 엘리스 제공
+* Baseline: https://elice.io/ 
 
 
