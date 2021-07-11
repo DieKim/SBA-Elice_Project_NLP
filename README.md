@@ -18,7 +18,7 @@
 
 ## 💡 Reference
 * Data: https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp
-* Baseline: [엘리스 제공](https://elice.io/) 
+* Baseline: [엘리스](https://elice.io/) 제공
 * Document: [project_reference.txt](https://github.com/DieKim/SBA-Elice_Project_NLP/files/6796840/project_reference.txt)
 
 
